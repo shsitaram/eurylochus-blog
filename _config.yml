@@ -1,0 +1,9 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+title: Eurylochus's Blog
+theme: jekyll-theme-primer
